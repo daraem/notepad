@@ -1,0 +1,14 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "note app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "daraem",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.0.2"
+  }
+}
