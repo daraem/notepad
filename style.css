@@ -30,6 +30,7 @@ textarea {
     height: 100vh;
     background-color: black;
     top: 0;
+    border: 1px solid red;
 }
 
 #footer {
@@ -41,4 +42,20 @@ textarea {
     padding: 0;
     height: 25px;
     background-color: black;
+}
+
+#container {
+    display: flex;
+
+    margin-top: 30%;
+
+    align-items: center;
+    justify-content: center;
+}
+
+#buttonExpand {
+    background-color: aqua;
+
+    width: 25px;
+    height: 25px;
 }
