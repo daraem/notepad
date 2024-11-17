@@ -2,7 +2,7 @@
   "name": "noteapp",
   "version": "1.0.0",
   "description": "note app",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron ."
   },
